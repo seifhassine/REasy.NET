@@ -1,6 +1,6 @@
 # REasy.NET
 
-This repo houses the .NET port of [REasy](https://github.com/seifhassine/REasy).
+This repo houses the .NET port of [REasy](https://github.com/seifhassine/REasy). WIP.
 
 ## Getting Started
 
