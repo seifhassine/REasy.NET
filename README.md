@@ -2,6 +2,9 @@
 
 This repo houses the .NET port of [REasy](https://github.com/seifhassine/REasy). WIP.
 
+Why not just focus on the Python version?
+-> Performance.   
+
 ## Getting Started
 
 ### Prerequisites
